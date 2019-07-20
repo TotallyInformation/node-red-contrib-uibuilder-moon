@@ -1,4 +1,7 @@
 # node-red-contrib-uibuilder-moon
+
+**DEPRECATED: uibuilder has moved on and this node will not now be developed**
+
 A Moon.js templated dashboard for Node-RED. Built on uibuilder.
 
 **NO CODE IS YET AVAILABLE FOR THIS**
